@@ -1,0 +1,66 @@
+commit f492b9c1ee3a654c3705e483b3e34d8c2d8e255e
+Author: TLellius <tonyxlau26x99@gmail.com>
+Date:   Fri Feb 7 13:16:47 2025 -0800
+
+    Adding my info to your index.html
+
+commit 17c548fe96051314f80f2db59e3cb7ef67087b42
+Merge: f37cdce e4dbc29
+Author: VillaJesus <166075751+VillaJesus@users.noreply.github.com>
+Date:   Fri Feb 7 13:02:06 2025 -0800
+
+    Merge pull request #1 from VillaJesus/feature-about-me
+    
+    Feature about me
+
+commit e4dbc29b40a0c422212c6233ff2c0b89c9067d06
+Merge: 2b6decd f37cdce
+Author: VillaJesus <166075751+VillaJesus@users.noreply.github.com>
+Date:   Fri Feb 7 13:01:53 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 2b6decd2290143aeef35eda1f127f1613f4bd403
+Author: VillaJesus <jesusavilla567@gmail.com>
+Date:   Fri Feb 7 12:52:40 2025 -0800
+
+    Update index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
