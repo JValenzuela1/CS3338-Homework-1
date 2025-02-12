@@ -1,0 +1,123 @@
+commit 0557bfaddabc6f77b29b242011b5ca626be6ee35
+Merge: 8921ef2 e45e830
+Author: Humayra Rashid <130780045+humayrasr123@users.noreply.github.com>
+Date:   Tue Feb 11 16:10:05 2025 -0800
+
+    Merge branch 'main' into patch-1
+
+commit e45e8303775d0dd58d31cd6da4cd785004e1de57
+Merge: 3a9c739 0e79ef3
+Author: Humayra Rashid <130780045+humayrasr123@users.noreply.github.com>
+Date:   Tue Feb 11 16:05:51 2025 -0800
+
+    Merge pull request #3 from lailavelas/main
+    
+    Requesting to merge
+
+commit 0e79ef3c8c0ee17207905bcdbaab790d65d63fa9
+Author: Humayra Rashid <130780045+humayrasr123@users.noreply.github.com>
+Date:   Tue Feb 11 16:02:33 2025 -0800
+
+    Update index.html on laila's github
+
+commit 8921ef222c510c0025eb18ac7c3c1e4bba8c49a2
+Author: lailavelas <158415627+lailavelas@users.noreply.github.com>
+Date:   Tue Feb 11 16:01:26 2025 -0800
+
+    Update index.html on Humayra's Github
+
+commit 9560e0fc6a7a4d4493a1f1ce13d7eda8a5bb5943
+Author: Humayra Rashid <130780045+humayrasr123@users.noreply.github.com>
+Date:   Tue Feb 11 16:01:26 2025 -0800
+
+    Update index.html on laila's github
+
+commit 3a9c739c9b44cde4a5ea320f097a8f45417672bd
+Author: Humayra Rashid <130780045+humayrasr123@users.noreply.github.com>
+Date:   Tue Feb 11 15:59:45 2025 -0800
+
+    Update index.html
+
+commit a1c4e3e60565f508a9f894d8363aeadb15eeb13f
+Merge: f37cdce da52555
+Author: Humayra Rashid <130780045+humayrasr123@users.noreply.github.com>
+Date:   Tue Feb 11 15:53:37 2025 -0800
+
+    Merge pull request #1 from humayrasr123/feature-about-me
+    
+    Feature about me
+
+commit da52555652b4e79d70851d6542265499da0e9db2
+Merge: 505f8ac f37cdce
+Author: Humayra Rashid <130780045+humayrasr123@users.noreply.github.com>
+Date:   Tue Feb 11 15:53:25 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 505f8ac17f1ef3c3af102246ed3114f8fc3027f1
+Author: Humayra Rashid <suzanarashid123@gmail.com>
+Date:   Tue Feb 11 15:51:18 2025 -0800
+
+    Updated index.html
+    
+    I filled in my part
+
+commit 687e3e0587aec4ac1893ead9ddd115f26760786f
+Merge: 1a46d9b f37cdce
+Author: lailavelas <158415627+lailavelas@users.noreply.github.com>
+Date:   Tue Feb 11 13:44:26 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 1a46d9b55e9633a222956c01e59e5b7e6e1ef854
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Tue Feb 11 13:02:27 2025 -0800
+
+    Updated index.html with required info
+
+commit a820ae902260fbd25bf7550331357377c43feb9d
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Feb 7 11:00:44 2025 -0800
+
+    Update index.html
+    
+    Updated index.html with About me information
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
