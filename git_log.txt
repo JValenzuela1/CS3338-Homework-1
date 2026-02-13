@@ -1,0 +1,70 @@
+commit 45e5080ee50c2ac8adca99a0b44114c103d183a8
+Author: Anderson Rodriguez <arodri388@calstatela.edu>
+Date:   Fri Feb 13 11:19:50 2026 -0800
+
+    Updated index.html
+    
+    Added information in groupmate's section
+
+commit b92061c1a27d97732ef196a7f2cc5251ed546d29
+Merge: f37cdce 98deada
+Author: Cristian Hernandez <120615471+M00ns7@users.noreply.github.com>
+Date:   Mon Feb 9 12:46:33 2026 -0800
+
+    Merge pull request #1 from M00ns7/feature-about-me
+    
+    Feature about me
+
+commit 98deada030944fc40097c8c29de0a322ee61505d
+Merge: a013798 f37cdce
+Author: Cristian Hernandez <120615471+M00ns7@users.noreply.github.com>
+Date:   Mon Feb 9 12:46:22 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit a0137987c9db798d7b54a25e124bb3a91e1afc2b
+Author: M00ns7 <120615471+M00ns7@users.noreply.github.com>
+Date:   Mon Feb 9 12:31:59 2026 -0800
+
+    Update index.html with personal info
+    
+    Added my name, hobbies and a fun fact
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
