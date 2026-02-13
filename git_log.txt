@@ -1,0 +1,61 @@
+commit acbd67769757c045c1b086c8781fed713df8339f
+Author: Corona <hcorona9@calstatela.edu>
+Date:   Wed Feb 11 18:40:34 2026 -0800
+
+    Update index.html
+    
+    added my personal info
+
+commit 68848795d6be23db283931ca14246492cd056c9c
+Merge: f37cdce 0028466
+Author: Ivonne Arizpe <127153957+04-ivonne@users.noreply.github.com>
+Date:   Tue Feb 10 12:47:51 2026 -0800
+
+    Merge pull request #1 from 04-ivonne/feature-about-me
+    
+    Update index.html
+
+commit 0028466ca9615646ed96608570367590ee047fdd
+Author: Ivonne Arizpe <0610ivonnearizpe@gmail.com>
+Date:   Tue Feb 10 12:40:03 2026 -0800
+
+    Update index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
